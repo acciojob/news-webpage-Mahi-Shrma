@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.header{
+	background-color:black;
+	color:white;
+	text-align:center;
+}
+.section{
+	border-radius:10%;
+	background-color:white;
+	width:220px;
+	height:150px;
+	text-align:center;
+	justify-content:center;
+}
+main{
+	display:flex;
+	justify-content:space-between;
+}
+.section2{
+	border-radius:10%;
+	background-color:white;
+	width:220px;
+	height:190px;
+	text-align:center;
+}
+.pictorial-news-section{
+	border-radius:10%;
+	background-color:white;
+	width:220px;
+	height:380px;
+	text-align:center;
+}
